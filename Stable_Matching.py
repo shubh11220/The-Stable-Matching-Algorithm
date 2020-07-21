@@ -1,4 +1,8 @@
 
+
+
+
+
 # Part 1: Initialization
 Men = ['Mike', 'Harvey', 'Louis', 'Logan']
 Women = ['Rachel', 'Donna', 'Katrina', 'Sheila']
@@ -29,6 +33,7 @@ Matches = {
     'Logan': ''
     }
 key_list = list(Matches.keys())
+# the algorithm
 while len(Men_Free) > 0:
     for man in key_list:
         for woman in Men_Pref[man]:
