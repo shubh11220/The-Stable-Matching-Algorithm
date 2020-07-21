@@ -1,4 +1,4 @@
-# Stable-Matching-Algorithm
+# The Stable Matching Algorithm
 The Stable Matching or the Stable Marriage algorithm is a mathematical algorithm that finds stable matches between two equally sized sets of elements. 
 The algorithm works off two independent preference-frames for each set which allows preference based matching to occur. 
 After the initialization a proposal is made by one of the sets and the matching algorithm begins
